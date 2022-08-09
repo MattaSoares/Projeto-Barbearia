@@ -291,5 +291,9 @@ footer img {
 	form {
 		margin-left: 20px;
 	}
+	
+	footer img {
+	width: 30%;
+	}
 
 }
